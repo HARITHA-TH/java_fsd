@@ -1,4 +1,4 @@
-package ust_batch_3.jdbc_demo;
+package ust_batch_3.testng_demo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
