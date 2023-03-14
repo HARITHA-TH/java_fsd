@@ -1,5 +1,9 @@
-package arrayList;
+
 //Java Program to Find the Middle Element in a Linked List
+
+
+package arrayList;
+
 import java.util.LinkedList;
 public class LinkedLlst
 {
