@@ -1,3 +1,5 @@
+//to find lucky numbers
+
 package array;
 
 import java.util.Scanner;
