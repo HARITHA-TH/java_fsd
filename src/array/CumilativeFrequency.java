@@ -1,3 +1,6 @@
+//To calculate cumilative frequency
+
+
 package array;
 
 import java.util.Scanner;
