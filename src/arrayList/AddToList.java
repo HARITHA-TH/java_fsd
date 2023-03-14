@@ -1,3 +1,6 @@
+//print the list by adding some elements and remove one element
+
+
 package arrayList;
 import java.util.*;
 
