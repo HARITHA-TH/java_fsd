@@ -1,3 +1,5 @@
+//to find max element in an array
+
 package array;
 
 import java.util.Scanner;
