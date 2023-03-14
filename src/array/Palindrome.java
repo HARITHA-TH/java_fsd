@@ -1,3 +1,8 @@
+
+
+
+//to find palindrome of a number
+
 package array;
 
 import java.util.Scanner;
