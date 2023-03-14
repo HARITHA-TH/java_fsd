@@ -1,3 +1,5 @@
+//To print count of positive and negative numbers in an array
+
 package array;
 
 public class Count {
