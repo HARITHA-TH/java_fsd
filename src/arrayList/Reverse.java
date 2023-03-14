@@ -1,3 +1,6 @@
+//reverse class to find reverse of a string
+
+
 package arrayList;
 
 public class Reverse {
