@@ -1,3 +1,5 @@
+//to find common elements
+
 package array;
 
 // Java Program to find common elements
